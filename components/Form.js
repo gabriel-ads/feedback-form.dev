@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { LargeHeading } from "./Headings";
 import PrimaryButton from "./PrimaryButton";
 import TextInput from "./TextInput";
-import StarsInput from "./starsInput";
+import StarsInput from "./StarsInput";
 import MessageInput from "./MessageInput";
 import styled from "styled-components";
 import { breakpoints } from "../pages/global-style";
