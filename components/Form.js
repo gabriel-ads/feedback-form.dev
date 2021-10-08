@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { LargeHeading } from "./Headings";
 import PrimaryButton from "./PrimaryButton";
 import TextInput from "./TextInput";
