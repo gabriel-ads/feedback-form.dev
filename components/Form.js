@@ -130,7 +130,6 @@ export default function Form() {
                   sendFeedback(textInput, starsInput, messageInput)
                     .then(() => {
                       setDisplayForm("none");
-                      setDisplayPrimaryButton("block");
                       setDisplayAfterSending("flex");
                       setSentWithSuccess(true);
                     })
